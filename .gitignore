@@ -1,0 +1,11 @@
+*.interface.js
+*.interface.js.map
+*.component.js
+*.component.js.map
+*.service.js
+*.service.js.map
+*.log
+main.js
+main.js.map
+node_modules
+typings
