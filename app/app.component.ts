@@ -1,8 +1,10 @@
 import { Component } from '@angular/core';
+import { SearchPageComponent } from './component/search.page.component';
 
 @Component({
   selector: 'my-app',
-  template: '<h1>My First Angular 2 App</h1>'
+  template: `<search-page></search-page>`,
+  directives : [SearchPageComponent]
 })
 
 export class AppComponent { }

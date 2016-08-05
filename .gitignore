@@ -4,8 +4,13 @@
 *.component.js.map
 *.service.js
 *.service.js.map
+*.ui.js
+*.ui.js.map
+*.page.js
+*.page.js.map
 *.log
 main.js
 main.js.map
 node_modules
 typings
+dist
